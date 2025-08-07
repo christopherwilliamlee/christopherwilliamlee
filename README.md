@@ -1,7 +1,6 @@
 # 👋 Olá, sou Christopher William Lee
 
 ## 🧬 Bioinformática
-[![Bioinformática](https://img.shields.io/badge/Bioinformática-science-9B59B6)](https://www.ebi.ac.uk/)
 [![Kraken2](https://img.shields.io/badge/Kraken2-metagenomics-blueviolet)](https://github.com/DerrickWood/kraken2/)
 [![QIIME2](https://img.shields.io/badge/QIIME2-microbiome-6E4B7E)](https://qiime2.org/)
 [![BioBakery](https://img.shields.io/badge/BioBakery-metagenomics-orange)](https://github.com/biobakery/)
