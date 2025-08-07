@@ -11,7 +11,7 @@
 ![HTML](https://img.shields.io/badge/HTML5-markup-E34F26?logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-style-1572B6?logo=css3&logoColor=white)
 [![Nextflow](https://img.shields.io/badge/Nextflow-workflow-46B3A1)](https://www.nextflow.io/)
-
+[![Snakemake](https://img.shields.io/badge/Snakemake-workflow-1A5E9A)](https://snakemake.readthedocs.io/)
 
 Pesquisador em Bioinformática, integrando ciências biológicas e análise de dados em saúde e biotecnologia.
 
