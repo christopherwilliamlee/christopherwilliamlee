@@ -2,18 +2,6 @@
 
 Pesquisador em Bioinformática, integrando ciências biológicas e análise de dados em saúde e biotecnologia.
 
-## 📑 Menu
-
-- [🧬 Bioinformática](#bioinformatica)
-- [💻 Linguagens e Ferramentas](#linguagens-e-ferramentas)
-- [🌐 Web](#web)
-- [🔤 Idiomas](#idiomas)
-- [🌱 Formação](#formacao)
-- [🛠️ Ferramentas](#ferramentas)
-- [🔗 Conecte-se](#conecte-se)
-
----
-
 ## 🧬 Bioinformática
 [![Kraken2](https://img.shields.io/badge/Kraken2-metagenomics-blueviolet)](https://github.com/DerrickWood/kraken2/)
 [![QIIME2](https://img.shields.io/badge/QIIME2-microbiome-6E4B7E)](https://qiime2.org/)
