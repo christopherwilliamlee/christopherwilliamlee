@@ -18,6 +18,11 @@
 [![HTML](https://img.shields.io/badge/HTML5-markup-E34F26?logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
 [![CSS](https://img.shields.io/badge/CSS3-style-1572B6?logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
 
+### 🌐 Idiomas
+![Inglês](https://img.shields.io/badge/Inglês-Avançado-blue?style=flat-square)
+![Espanhol](https://img.shields.io/badge/Espanhol-Fluente-orange?style=flat-square)
+![Português](https://img.shields.io/badge/Português-Nativo-green?style=flat-square)
+
 Pesquisador em Bioinformática, integrando ciências biológicas e análise de dados em saúde e biotecnologia.
 
 ## 🌱 Formação
