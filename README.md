@@ -4,7 +4,7 @@ Pesquisador em Bioinformática, integrando ciências biológicas e análise de d
 
 ## 🧬 Bioinformática
 [![Kraken2](https://img.shields.io/badge/Kraken2-metagenomics-blueviolet)](https://github.com/DerrickWood/kraken2/)
-[![QIIME2](https://img.shields.io/badge/QIIME2-microbiome-6E4B7E)](https://qiime2.org/)
+[![QIIME2](https://img.shields.io/badge/QIIME2-metagenomics-6E4B7E)](https://qiime2.org/)
 [![BioBakery](https://img.shields.io/badge/BioBakery-metagenomics-orange)](https://github.com/biobakery/)
 [![Nextflow](https://img.shields.io/badge/Nextflow-workflow-46B3A1)](https://www.nextflow.io/)
 [![Snakemake](https://img.shields.io/badge/Snakemake-workflow-1A5E9A)](https://snakemake.readthedocs.io/)
