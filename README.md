@@ -34,8 +34,8 @@
 ---
 
 ## 🎓 Formação Acadêmica
-- **Graduação:** Ciências Biológicas  
-- **Mestrado:** Ciências  
+- **Graduação:** Ciências Biológicas - Mutagênese Ambiental
+- **Mestrado:** Ciências - Oncogenética
 - **Doutorado (em andamento):** Farmácia – Bioinformática e Ciência de Dados
 
 **Áreas de especialização:**  
