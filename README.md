@@ -1,7 +1,7 @@
 # 👋 Olá, sou Christopher William Lee
 
 > Bioinformata com foco em análise de dados aplicados à saúde e biotecnologia.  
-> Apaixonado por **Bitcoin** ₿ e entusiasta da Blockchain
+> Apaixonado por **Bitcoin** ₿ e entusiasta de Blockchain
 
 ---
 
