@@ -27,9 +27,9 @@
 ---
 
 ### 🌐 Idiomas
-![Inglês](https://img.shields.io/badge/English-Advanced-blue?style=flat-square)
-![Espanhol](https://img.shields.io/badge/Spanish-Fluent-orange?style=flat-square)
-![Português](https://img.shields.io/badge/Portuguese-Native-green?style=flat-square)
+![Inglês](https://img.shields.io/badge/English-Avançado-blue?style=flat-square)
+![Espanhol](https://img.shields.io/badge/Spanish-Fluente-orange?style=flat-square)
+![Português](https://img.shields.io/badge/Portuguese-Nativo-green?style=flat-square)
 
 ---
 
